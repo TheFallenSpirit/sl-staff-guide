@@ -1,5 +1,5 @@
 # Helper Duties
-The duties of our helpers in Eternal Paradise.
+The duties of our helpers in Starlight.
 
 ### Verification Tickets
 The first duty of helpers is verification tickets.

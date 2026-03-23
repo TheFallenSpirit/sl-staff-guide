@@ -1,5 +1,5 @@
 # Team Leader Duties
-The duties of our team leaders in Eternal Paradise.
+The duties of our team leaders in Starlight.
 
 ## Staff Team Management
 It is the duty of our team leaders to assist in promotions, demotions, additions, and removals of staff members.

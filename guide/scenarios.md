@@ -2,7 +2,7 @@
 A list of scenarios that might arise, and how to handle them.
 
 ### Member Intoxicated
-Eternal Paradise is an adults only hangout, if a member is intoxicated it isn't our business unless:
+Starlight is an adults only hangout, if a member is intoxicated it isn't our business unless:
 
 - The member is breaking the rules.
 - The member is acting reckless or making irrational decisions.

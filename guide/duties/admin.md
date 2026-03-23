@@ -1,5 +1,5 @@
 ## Admin Duties
-The duties of our admins in Eternal Paradise.
+The duties of our admins in Starlight.
 
 ### Helper & Moderator Intervention
 It is our admins' job to periodically monitor our helpers and moderators to make sure they are properly staffing.

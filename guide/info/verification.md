@@ -15,17 +15,18 @@ Be nice and make them feel welcome in our community.
 ### Member Instructions
 Here's the list of member instructions for verification:
 
-1. Write your username, today's date, and "Starlight" on a piece of paper, or a digital note. Then, take a selfie holding the paper or note.
+1. Write your username, today's date, and "Starlight" on a piece of paper or a digital note.
 
-2. Take a selfie holding a valid government-issued photo ID. We must be able to see your face, the expiry date, your date of birth, and your country/state's name and icon/flag, everything else can be covered.
+2. Take a picture of yourself holding your ID and the piece of paper beside your face (you can censor personal info on your ID except your face, date of birth, and country/state/provincial icons).
 
-3. Take a selfie doing {random-pose} pose.
+3. Take a picture of yourself doing the following pose: {random.pose}.
 
-4. Upload all 3 selfies to this channel, and wait for a staff member to handle your verification.
+4. Upload both pictures to the channel and wait for further instructions from staff.
 
 
 ### Staff Instructions
-You must verify the person on the ID is the same person doing the pose and taking the photos. All 3 selfies must be of the same person. The ID must not be expired, and must be issued by a state, provincial, or federal government in the country of residence.
+You must verify the person on the ID is the same person doing the pose and taking the photos. All selfies must be of the same person.
+The ID must not be expired, and must be issued by a state, provincial, or federal government in the country of residence.
 
 If you are unsure of a member's ID, ping an admin to come and assist with verification.
 

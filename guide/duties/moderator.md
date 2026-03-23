@@ -1,5 +1,5 @@
 # Moderator Duties
-The duties of our moderators in Eternal Paradise.
+The duties of our moderators in Starlight.
 
 ### Support Tickets
 The biggest duty of moderators is support tickets.
