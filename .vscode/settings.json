@@ -5,8 +5,13 @@
         "caseedit",
         "caseinfo",
         "caselist",
+        "rcolor",
         "roleplay",
         "safetyctl",
+        "setafk",
+        "setproof",
+        "Slowmode",
+        "unafk",
         "unwarn",
         "warnable"
     ]
