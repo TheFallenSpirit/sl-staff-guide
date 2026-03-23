@@ -1,0 +1,17 @@
+{
+	"devDependencies": {
+		"vitepress": "2.0.0-alpha.17"
+	},
+	"scripts": {
+		"dev": "vitepress dev --host 0.0.0.0",
+		"build": "vitepress build",
+		"preview": "vitepress preview",
+		"start": "vitepress serve --port 8000"
+	},
+	"prettier": {
+		"tabWidth": 4,
+		"printWidth": 120,
+		"singleQuote": true,
+		"trailingComma": "none"
+	}
+}
