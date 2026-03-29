@@ -17,7 +17,7 @@ Here's the list of member instructions for verification:
 
 1. Write your username, today's date, and "Starlight" on a piece of paper or a digital note.
 
-2. Take a picture of yourself holding your ID and the piece of paper beside your face (you can censor personal info on your ID except your face, date of birth, and country/state/provincial icons).
+2. Take a picture of yourself holding your ID and the paper/note beside your face (you can censor personal info on your ID except your face, date of birth, and country/state/provincial icons).
 
 3. Take a picture of yourself doing the following pose: {random.pose}.
 
