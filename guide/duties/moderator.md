@@ -8,7 +8,7 @@ Helpers are unable to see support tickets, and moderators are expected to handle
 Support tickets may require talking to multiple members,
 and or investigating an issue or accusations by checking the logs or message history in channel(s).
 
-If you need to talk to other members to solve an issue, you can [pull them into a ticket](/info/#how-to-pull-another-member-into-a-ticket).
+If you need to talk to other members to solve an issue, you can [pull them into a ticket](/info#how-to-pull-another-member-into-a-ticket).
 
 ### Advanced Moderation
 Moderators may need to mute, kick, or ban users for severe rule breaks/infractions.

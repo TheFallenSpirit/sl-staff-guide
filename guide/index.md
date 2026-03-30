@@ -15,27 +15,27 @@ hero:
 
 features:
   - title: Useful Info
-    link: /info/
+    link: /info
     details: Some useful staff information and frequently asked questions.
 
   - title: Commands
-    link: /info/commands
+    link: /commands
     details: View a list of all commands accessible to EP staff members.
 
   - title: Predefined Reasons
-    link: /info/reasons
+    link: /reasons
     details: A list of pre-defined moderation reasons.
 
   - title: Staff Policies
-    link: /info/policies/staff
+    link: /policies/staff
     details: View our current staff policies that apply to all staff.
 
   - title: Moderation Policies
-    link: /info/policies/moderation
+    link: /policies/moderation
     details: View our current moderation policies that apply when moderating members.
 
   - title: ES Flagging Guide
-    link: /info/es-flagging
+    link: /guides/es-flagging
     details: A guide to flagging users on Eternal Slave.
 
   - title: Helper Duties

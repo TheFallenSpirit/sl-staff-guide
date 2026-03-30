@@ -1,4 +1,4 @@
-## Admin Duties
+# Admin Duties
 The duties of our admins in Starlight.
 
 ### Helper & Moderator Intervention

@@ -1,9 +1,9 @@
 import { DefaultTheme, defineConfig, HeadConfig } from 'vitepress';
 
 const navConfig: DefaultTheme.NavItem[] = [
-	{ text: 'Info', link: '/info/' },
-	{ text: 'Commands', link: '/info/commands' },
-	{ text: 'Predefined Reasons', link: '/info/reasons' },
+	{ text: 'Info', link: '/info' },
+	{ text: 'Commands', link: '/commands' },
+	{ text: 'Predefined Reasons', link: '/reasons' },
 ];
 
 const headConfig: HeadConfig[] = [
@@ -14,13 +14,19 @@ const sidebarConfig: DefaultTheme.Sidebar = [
 	{
 		text: 'Staff Info',
 		items: [
-			{ text: 'Useful', link: '/info/' },
-			{ text: 'Commands', link: '/info/commands' },
-			{ text: 'Staff Policies', link: '/info/policies/staff' },
-			{ text: 'Verification Guide', link: '/info/verification' },
-			{ text: 'ES Flagging Guide', link: '/info/es-flagging' },
-			{ text: 'Moderation Policies', link: '/info/policies/moderation' },
-			{ text: 'Predefined Reasons', link: '/info/reasons' }
+			{ text: 'Useful', link: '/info' },
+			{ text: 'Scenarios', link: '/scenarios' },
+			{ text: 'Commands', link: '/commands' },
+			{ text: 'Staff Policies', link: '/policies/staff' },
+			{ text: 'Moderation Policies', link: '/policies/moderation' },
+			{ text: 'Predefined Reasons', link: '/reasons' }
+		]
+	},
+	{
+		text: 'Guides',
+		items: [
+			{ text: 'Verification', link: '/guides/verification' },
+			{ text: 'ES Flagging', link: '/guides/es-flagging' }
 		]
 	},
 	{
@@ -30,12 +36,6 @@ const sidebarConfig: DefaultTheme.Sidebar = [
 			{ text: 'Moderators', link: '/duties/moderator' },
 			{ text: 'Admins', link: '/duties/admin' },
 			{ text: 'Team Leader', link: '/duties/team-lead' }
-		]
-	},
-	{
-		text: 'Other Stuff',
-		items: [
-			{ text: 'Scenarios', link: '/scenarios' }
 		]
 	}
 ];
@@ -54,8 +54,8 @@ export default defineConfig({
 
 	themeConfig: {
 		nav: navConfig,
-		outline: { level: 3 },
 		sidebar: sidebarConfig,
+		outline: { level: [2, 3] },
 		search: { provider: 'local' },
 		editLink: { pattern: 'https://github.com/TheFallenSpirit/sl-staff-guide/edit/master/docs/:path' }
 	}
