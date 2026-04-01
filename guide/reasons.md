@@ -7,7 +7,7 @@ Here is a list of predefined reasons that should be used when moderating users.
 - `unv`, `unverified` - Sent another member a DM or friend request while unverified.
 - `play` - Disrespecting another member's play status roles.
 - `touch` - Disrespecting another member's touch status roles.
-- `nsfw` - Posting NSFW content in an non age-restricted channel.
+- `nsfw` - Posting NSFW content in an non age-restricted channel or an SFW only channel.
 - `adv`, `advertisement` - Self advertising a Discord server or paid service in your bio or in a message.
 - `slur` - Using a slur in a chat or voice chat. Slurs are strictly prohibited in our server.
 - `jail`, `ticket` - Failing to respond to a jail or ticket within 24 hours.
