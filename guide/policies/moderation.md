@@ -1,6 +1,11 @@
 # Moderation Policies
 A list of our current moderation policies.
 
+### Evidence For All Punishments
+Whenever a member gets punished, you are required to attach the relevant evidence for the punishment.
+Evidence should be uploaded to the message when you use moderation commands.
+Sapphire will permanently store evidence for these cases, so it can be easily retrieved at a later date.
+
 ### Punish All Members Involved
 If a fight breaks out or drama ensues between multiple members, punish all members involved.
 There will be no "they started it" bullshit, if you participated, you get punished.
