@@ -54,8 +54,12 @@ Failure to comply with this request can also lead to closing the ticket or kicki
 
 
 ### Successful Verification
-After a member has successfully ID verified, you can verify the member using `>verify @user <male/female/other> <date-of-birth>`.
+After a member has successfully ID verified, you can verify the member using `>vrf @user <male/female/other> <date-of-birth>`.
 It is crucial you provide the member's date of birth when verifying them so we can look back at verification histories.
+
+#### Cross Verification
+To cross-verify a member, use `>vrf @user <male/female/other> <date-of-birth> --cross-from <server-name>`.
+The syntax is case sensitive, and you must use the cross-from flag or the user will be ID verified.
 
 :::info
 Date of Birth must be recorded in the British format, or written out, not the American format.
